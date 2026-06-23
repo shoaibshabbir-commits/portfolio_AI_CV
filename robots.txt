@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shoaib11223344.github.io/Github-portfolio/sitemap.xml
